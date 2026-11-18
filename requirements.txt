@@ -1,0 +1,5 @@
+qutip>=5.0
+numpy
+matplotlib
+jupyter
+pytest
